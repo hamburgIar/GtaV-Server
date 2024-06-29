@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServerStart": {
+      "commandName": "Executable",
+      "executablePath": "D:\\MyGtaServer\\altv-server.exe",
+      "workingDirectory": "D:\\MyGtaServer"
+    }
+  }
+}

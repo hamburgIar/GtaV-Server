@@ -1,0 +1,15 @@
+D:\MyGtaServer\resources\Eclipse\Debug\Eclipse.deps.json
+D:\MyGtaServer\resources\Eclipse\Debug\Eclipse.dll
+D:\MyGtaServer\resources\Eclipse\Debug\Eclipse.pdb
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.csproj.AssemblyReference.cache
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.Properties.Resources.resources
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.csproj.GenerateResource.cache
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.AssemblyInfoInputs.cache
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.AssemblyInfo.cs
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.csproj.CoreCompileInputs.cache
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.csproj.CopyComplete
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.dll
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\refint\Eclipse.dll
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\Eclipse.pdb
+D:\MyGtaServer\resources\EclipseServer\obj\Debug\ref\Eclipse.dll

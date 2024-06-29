@@ -1,0 +1,17 @@
+cache/
+resources/EclipseClient/node_modules/
+resources/EclipseClient/client/cef/node_modules/
+.server-crashes-cache
+server.log
+altv-server.exe
+altv-crash-handler.exe
+AltV.Net.Host.runtimeconfig.json
+AltV.Net.Host.dll
+resources/EclipseClient/.vscode
+resources/EclipseClient/package-lock.json
+resources/EclipseClient/client/cef/.idea
+resources/EclipseClient/client/cef/.vscode
+resources/EclipseClient/client/cef/public
+resources/EclipseClient/client/cef/jsconfig.json
+resources/EclipseClient/client/cef/package-lock.json
+resources/EclipseClient/client/cef/README.md

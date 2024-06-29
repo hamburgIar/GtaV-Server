@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>D:\MyGtaServer\resources\EclipseServer</BaseOutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+	<ItemGroup>
+		<Compile Include="Players\data\CharacterData.cs" />
+		<Compile Include="Players\Events\ClientEvents.cs" />
+		<Compile Include="Players\Events\ScriptEvents.cs" />
+		<Compile Include="Server.cs" />
+		<Compile Include="Utils\Database\Handler.cs" />
+		<Compile Include="Players\Controller.cs" />
+		<Compile Include="Players\data\SessionData.cs" />
+		<Compile Include="Handlers\ExtPlayer.cs" />
+		<Compile Include="Handlers\ExtVehicle.cs" />
+		<Compile Include="Handlers\ExtVehicleFactory.cs" />
+		<Compile Include="Handlers\PlayerFactory.cs" />
+		<Compile Include="ServerEvents\Connected.cs" />
+		<Compile Include="ServerEvents\Disconnect.cs" />
+		<Compile Include="Commands\Admin.cs" />
+		<Compile Include="Players\Auth.cs" />
+		<Compile Include="Utils\Notify.cs" />
+	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="16.0.15" />
+    <PackageReference Include="AltV.Net.Async" Version="16.0.15" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="16.0.15" />
+    <PackageReference Include="AltV.Net.Shared" Version="16.0.15" />
+    <PackageReference Include="MySql.Data" Version="8.4.0" />
+  </ItemGroup>
+</Project>

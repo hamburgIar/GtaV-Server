@@ -1,0 +1,45 @@
+{
+  "name": "Client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "tsc",
+    "preversion": "yarn run test",
+    "release": "yarn version --no-git-tag-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altmp/altv-example-resources.git"
+  },
+  "keywords": [
+    "altmp",
+    "altv",
+    "node",
+    "node-module",
+    "js-module",
+    "gta",
+    "gta5",
+    "gtav"
+  ],
+  "author": "altMP Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altmp/altv/issues"
+  },
+  "homepage": "https://github.com/altmp/altv-example-resources#readme",
+  "type": "module",
+  "devDependencies": {
+    "@altv/types-client": "^16.2.2",
+    "@altv/types-natives": "^16.2.0",
+    "@altv/types-shared": "^16.2.1",
+    "@altv/types-webview": "^16.2.1",
+    "html-loader": "^5.0.0",
+    "scss": "^0.2.4"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7",
+    "vite": "^5.2.11",
+    "vue": "^3.4.27"
+  }
+}

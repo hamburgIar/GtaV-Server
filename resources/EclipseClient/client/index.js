@@ -1,0 +1,6 @@
+import './src/player/main.js'
+import './src/admin/commands.js'
+import './src/player/auth.js'
+import './src/utils/notify.js'
+import './src/player/events.js'
+import './src/player/keyBinds.js'
